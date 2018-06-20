@@ -1,0 +1,1 @@
+function my(){alert("Hello world")}function my1(){alert("Hello gulp")}
